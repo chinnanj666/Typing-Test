@@ -10,7 +10,7 @@ Typing-Test is a web application designed to assess typing speed and accuracy wi
 
 ## Demo
 
-Check out the live demo [here](#), showcasing the Typing-Test application.
+Check out the live demo [here]( https://chinnanj666.github.io/Typing-Test/), showcasing the Typing-Test application.
 
 ## Technologies Used
 
