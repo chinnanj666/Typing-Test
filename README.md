@@ -6,7 +6,7 @@ Typing-Test is a web application designed to assess typing speed and accuracy wi
 
 - Test your typing speed with various difficulty levels.(update soon)
 - Receive real-time feedback on accuracy and words per minute (WPM).
-- Track progress and view past performance statistics.(update soon)
+- Track progress and view past performance statistics.(update soon)   
 
 ## Demo
 
